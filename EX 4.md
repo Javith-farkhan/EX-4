@@ -47,7 +47,8 @@ while True:
 
 ```
 # SERVER OUTPUT :
-![output](./output.png)
+![output](https://github.com/Javith-farkhan/EX-4/assets/94296805/216f6075-33b9-41ea-959d-91b035919044)
+
 
 # RESULT:
 ### Thus, the python program for simulating ARP protocols using TCP was successfully executed.
